@@ -1,0 +1,58 @@
+header {
+    text-align: center;
+}
+
+body {
+    margin: auto;
+    width: 2183px;
+
+}
+
+.search-box {
+    background-color: rgb(238, 238, 238);
+    text-align: center; 
+}
+
+.sb-header {
+    text-align: center;
+    padding: 0;
+    margin: 0 auto;
+}
+
+
+.box-1 {
+    display: block;
+    background-color: #7ee5d7;
+    float: left;
+    text-align: center;
+    margin: 0 0 5px 0;
+    width: 807px;
+    height: 85px;
+}
+
+.box-2 {
+    display: block;
+    background-color: #70ccc2;
+    float: left;
+    text-align: center;
+    margin: 0 2px 5px 2px;
+    width: 436px;
+    height: 85px;
+    font-size: smaller;
+
+}
+
+.box-3 {
+    display: block;
+    background-color: #62b3aa;
+    float: left;
+    text-align: center;
+    margin: 0 0 5px 0;
+    width: 936px;
+    height: 85px;
+}
+
+.sub-info {
+    text-align: center;
+    font-size: smaller;
+}
